@@ -1,0 +1,11 @@
+# ID_CUENTA | ID_CLIENTE | SALDO | TIPO_CUENTA
+101|1|1500.00|Ahorros
+102|2|3200.50|Corriente
+103|3|2750.75|Ahorros
+104|4|5000.00|Ahorros
+105|5|12500.25|Corriente
+106|1|800.00|Corriente
+107|2|1200.50|Ahorros
+108|3|3500.00|Corriente
+109|4|750.30|Ahorros
+110|5|9200.00|Ahorros

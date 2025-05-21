@@ -1,0 +1,6 @@
+# ID_CLIENTE | NOMBRE | EMAIL | TELÉFONO
+1|Juan Pérez|juan@email.com|987654321
+2|María López|maria@email.com|998877665
+3|Carlos Ruiz|carlos@email.com|955544333
+4|Ana Torres|ana@email.com|911122334
+5|Luis Mendez|luis@email.com|966677889
